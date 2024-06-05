@@ -1,8 +1,6 @@
-# IoTWeatherStation
-
-Repo for Introduction to IoT and Cloud Architectures Project.
-Team Members: Robert Negre, Vlad Mocan. 
-
+# IoT Weather Station
+## Introduction to IoT and Cloud Architectures - Team Project
+### Team Members: Robert Negre & Vlad Mocan
 
 Our IoT weather monitoring system is based on a Raspberry Pi 4 with 4GB RAM and includes various sensors: the DHT11 for temperature and humidity, the BMP180 for temperature, pressure, and altitude, and the YL-83 for precipitation. The system features four LEDs (yellow, blue, red, green) and a buzzer for user feedback.
 
